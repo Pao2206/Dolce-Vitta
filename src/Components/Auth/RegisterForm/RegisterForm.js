@@ -27,7 +27,7 @@ const RegisterForm = () => {
   return (
     <View style={styles.content}>
       <Input
-        placeholder="Correo electrónico"
+        placeholder="Correo electrónicooooooo"
         containerStyle={styles.input}
         rightIcon={
           <Icon type="material-community" name="at" iconStyle={styles.icon} />
